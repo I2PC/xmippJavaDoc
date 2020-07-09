@@ -1,0 +1,24 @@
+<map id="xmipp.viewer.models.MetadataGalleryTableModel" name="xmipp.viewer.models.MetadataGalleryTableModel">
+<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1models_1_1ImageGalleryTableModel.html" title="xmipp.viewer.models.Image\lGalleryTableModel" alt="" coords="1081,239,1266,281"/>
+<area shape="rect" id="node15" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html" title="xmipp.viewer.windows.Gallery\lJFrame" alt="" coords="1439,589,1638,630"/>
+<area shape="rect" id="node4" href="$classxmipp_1_1viewer_1_1models_1_1GalleryColumnModel.html" title="xmipp.viewer.models.Gallery\lColumnModel" alt="" coords="719,57,909,98"/>
+<area shape="rect" id="node6" href="$classxmipp_1_1utils_1_1Cache.html" title="xmipp.utils.Cache\&lt;\l String, xmipp.viewer.models.\lImageGalleryTableModel.ImageItem \&gt;" alt="" coords="692,121,936,177"/>
+<area shape="rect" id="node7" href="$classxmipp_1_1viewer_1_1ImageDimension.html" title="xmipp.viewer.ImageDimension" alt="" coords="713,201,915,228"/>
+<area shape="rect" id="node8" href="$classxmipp_1_1viewer_1_1ImageItemRenderer.html" title="xmipp.viewer.ImageItemRenderer" alt="" coords="705,252,923,279"/>
+<area shape="rect" id="node13" href="$classxmipp_1_1viewer_1_1models_1_1GalleryData.html" title="xmipp.viewer.models.GalleryData" alt="" coords="1797,677,2016,704"/>
+<area shape="rect" id="node17" href="$interfacexmipp_1_1viewer_1_1ctf_1_1iCTFGUI.html" title="xmipp.viewer.ctf.iCTFGUI" alt="" coords="1086,329,1261,356"/>
+<area shape="rect" id="node34" href="$classxmipp_1_1utils_1_1QuickHelpJDialog.html" title="xmipp.utils.QuickHelpJDialog" alt="" coords="717,688,911,715"/>
+<area shape="rect" id="node20" href="$classxmipp_1_1utils_1_1XmippFileChooser.html" title="xmipp.utils.XmippFileChooser" alt="" coords="1075,548,1271,575"/>
+<area shape="rect" id="node22" href="$classxmipp_1_1viewer_1_1ctf_1_1TasksEngine.html" title="xmipp.viewer.ctf.TasksEngine" alt="" coords="1074,700,1273,727"/>
+<area shape="rect" id="node23" href="$interfacexmipp_1_1viewer_1_1ctf_1_1iTaskCompletionListener.html" title="xmipp.viewer.ctf.iTaskCompletion\lListener" alt="" coords="704,622,924,663"/>
+<area shape="rect" id="node36" href="$classxmipp_1_1utils_1_1QuickHelpPane.html" title="xmipp.utils.QuickHelpPane" alt="" coords="312,731,492,757"/>
+<area shape="rect" id="node27" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryMenu.html" title="xmipp.viewer.windows.Gallery\lJFrame.GalleryMenu" alt="" coords="1074,751,1273,793"/>
+<area shape="rect" id="node28" href="$classxmipp_1_1utils_1_1XmippMenuBarCreator.html" title="xmipp.utils.XmippMenuBar\lCreator" alt="" coords="725,882,903,923"/>
+<area shape="rect" id="node29" href="$classxmipp_1_1utils_1_1XmippMenuCreator.html" title="xmipp.utils.XmippMenuCreator" alt="" coords="301,901,503,928"/>
+<area shape="rect" id="node38" href="$classxmipp_1_1viewer_1_1models_1_1ColumnInfo.html" title="xmipp.viewer.models.ColumnInfo" alt="" coords="1065,112,1281,139"/>
+<area shape="rect" id="node40" href="$classxmipp_1_1jni_1_1MetaData.html" title="xmipp.jni.MetaData" alt="" coords="1471,732,1606,759"/>
+<area shape="rect" id="node42" href="$classxmipp_1_1viewer_1_1models_1_1ClassInfo.html" title="xmipp.viewer.models.ClassInfo" alt="" coords="1436,783,1641,809"/>
+<area shape="rect" id="node43" href="$classxmipp_1_1utils_1_1ColorIcon.html" title="xmipp.utils.ColorIcon" alt="" coords="1101,985,1246,1012"/>
+<area shape="rect" id="node46" href="$enumxmipp_1_1viewer_1_1models_1_1GalleryData_1_1Mode.html" title="xmipp.viewer.models.Gallery\lData.Mode" alt="" coords="1443,899,1634,941"/>
+<area shape="rect" id="node47" href="$classxmipp_1_1utils_1_1Params.html" title="xmipp.utils.Params" alt="" coords="1471,1036,1606,1063"/>
+</map>
