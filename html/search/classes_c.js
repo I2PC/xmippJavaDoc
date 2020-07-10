@@ -22,7 +22,6 @@ var searchData=
   ['micrographsselectionlistener',['MicrographsSelectionListener',['../classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerJFrame_1_1MicrographsSelectionListener.html',1,'xmipp::viewer::particlepicker::ParticlePickerJFrame']]],
   ['micrographstablemodel',['MicrographsTableModel',['../classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1gui_1_1MicrographsTableModel.html',1,'xmipp::viewer::particlepicker::training::gui']]],
   ['micrographstate',['MicrographState',['../enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1MicrographState.html',1,'xmipp::viewer::particlepicker::training::model']]],
-  ['mode',['Mode',['../enumxmipp_1_1viewer_1_1models_1_1GalleryData_1_1Mode.html',1,'xmipp::viewer::models::GalleryData']]],
-  ['mode',['Mode',['../enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1Mode.html',1,'xmipp::viewer::particlepicker::training::model']]],
+  ['mode',['Mode',['../enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1Mode.html',1,'xmipp.viewer.particlepicker.training.model.Mode'],['../enumxmipp_1_1viewer_1_1models_1_1GalleryData_1_1Mode.html',1,'xmipp.viewer.models.GalleryData.Mode']]],
   ['multilinecellrenderer',['MultilineCellRenderer',['../classxmipp_1_1utils_1_1MultilineCellRenderer.html',1,'xmipp::utils']]]
 ];

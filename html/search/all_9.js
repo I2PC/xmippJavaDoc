@@ -8,7 +8,7 @@ var searchData=
   ['jlvolumes',['jlVolumes',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html#a5e22d93d8bfecff3f05220d3ef975795',1,'xmipp::viewer::windows::GalleryJFrame']]],
   ['jmetadataio',['JMetaDataIO',['../classxmipp_1_1viewer_1_1JMetaDataIO.html',1,'xmipp::viewer']]],
   ['jmetadataio_2ejava',['JMetaDataIO.java',['../JMetaDataIO_8java.html',1,'']]],
-  ['join',['join',['../classxmipp_1_1jni_1_1Filename.html#ac5661a41b4792b36c2b2ea1ff1f7de0e',1,'xmipp::jni::Filename']]],
+  ['join',['join',['../classxmipp_1_1jni_1_1Filename.html#a4b725c77b63d3cacbf79a6b337677c11',1,'xmipp::jni::Filename']]],
   ['jpbottom',['jpBottom',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html#add44aeef0f761df8349cdbf0c17774ec',1,'xmipp::viewer::windows::GalleryJFrame']]],
   ['jscolumns',['jsColumns',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html#a0013b01b6abe626e186c104994bf5e50',1,'xmipp::viewer::windows::GalleryJFrame']]],
   ['jsgotoimage',['jsGoToImage',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html#a3a06c70975ce5bf9d3dfdccf0d7e53a4',1,'xmipp::viewer::windows::GalleryJFrame']]],

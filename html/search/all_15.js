@@ -9,11 +9,9 @@ var searchData=
   ['view_5fgallery_5ficon',['VIEW_GALLERY_ICON',['../classxmipp_1_1utils_1_1XmippResource.html#adaa40cfa0995f01764821f349cb0bf52',1,'xmipp::utils::XmippResource']]],
   ['view_5fmd',['VIEW_MD',['../classxmipp_1_1utils_1_1XmippResource.html#aac9fe69776a778cca1864c9b6113b03c',1,'xmipp::utils::XmippResource']]],
   ['view_5fmd_5ficon',['VIEW_MD_ICON',['../classxmipp_1_1utils_1_1XmippResource.html#a6510d5689ff014b86d203a96d144d7b2',1,'xmipp::utils::XmippResource']]],
-  ['viewer',['Viewer',['../classxmipp_1_1viewer_1_1Viewer.html',1,'xmipp::viewer']]],
-  ['viewer',['VIEWER',['../enumxmipp_1_1ij_1_1commons_1_1Tool.html#a3346262f535de4d5ccfe50045ecffa2a',1,'xmipp::ij::commons::Tool']]],
+  ['viewer',['Viewer',['../classxmipp_1_1viewer_1_1Viewer.html',1,'xmipp.viewer.Viewer'],['../enumxmipp_1_1ij_1_1commons_1_1Tool.html#a3346262f535de4d5ccfe50045ecffa2a',1,'xmipp.ij.commons.Tool.VIEWER()']]],
   ['viewer_2ejava',['Viewer.java',['../Viewer_8java.html',1,'']]],
-  ['viewertest',['ViewerTest',['../classxmipp_1_1viewer_1_1ViewerTest.html',1,'xmipp::viewer']]],
-  ['viewertest',['ViewerTest',['../classxmipp_1_1viewer_1_1ViewerTest.html#a4fb6e58afd620b9be63f3d663f29d6d9',1,'xmipp::viewer::ViewerTest']]],
+  ['viewertest',['ViewerTest',['../classxmipp_1_1viewer_1_1ViewerTest.html',1,'xmipp.viewer.ViewerTest'],['../classxmipp_1_1viewer_1_1ViewerTest.html#a4fb6e58afd620b9be63f3d663f29d6d9',1,'xmipp.viewer.ViewerTest.ViewerTest()']]],
   ['viewertest_2ejava',['ViewerTest.java',['../ViewerTest_8java.html',1,'']]],
   ['views',['VIEWS',['../classxmipp_1_1jni_1_1ImageGeneric.html#a5048f080d25ce86af644aceec8a340a5',1,'xmipp::jni::ImageGeneric']]],
   ['visible',['visible',['../classxmipp_1_1viewer_1_1models_1_1ColumnInfo.html#aae47e84f09226d10f783a861bea3a6b4',1,'xmipp::viewer::models::ColumnInfo']]],
@@ -22,10 +20,8 @@ var searchData=
   ['volfn',['volFn',['../classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html#a3128df1ba697e267942df32136d48d90',1,'xmipp::viewer::models::VolumeGalleryTableModel']]],
   ['volnumber',['volNumber',['../classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html#a00c50115753ae070dd6e3f1fc35dd430',1,'xmipp::viewer::models::VolumeGalleryTableModel']]],
   ['voltage',['voltage',['../classxmipp_1_1viewer_1_1particlepicker_1_1CtfInfo.html#a843202ddcea38f62dc26d30e71ef8075',1,'xmipp::viewer::particlepicker::CtfInfo']]],
-  ['volumegallerytablemodel',['VolumeGalleryTableModel',['../classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html#ac737842182fd1ce37c4e466e3f4060f9',1,'xmipp::viewer::models::VolumeGalleryTableModel']]],
-  ['volumegallerytablemodel',['VolumeGalleryTableModel',['../classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html',1,'xmipp::viewer::models']]],
+  ['volumegallerytablemodel',['VolumeGalleryTableModel',['../classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html',1,'xmipp.viewer.models.VolumeGalleryTableModel'],['../classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html#ac737842182fd1ce37c4e466e3f4060f9',1,'xmipp.viewer.models.VolumeGalleryTableModel.VolumeGalleryTableModel()']]],
   ['volumegallerytablemodel_2ejava',['VolumeGalleryTableModel.java',['../VolumeGalleryTableModel_8java.html',1,'']]],
   ['volumes',['VOLUMES',['../classxmipp_1_1jni_1_1Filename.html#a754e51896ee8293971162725c09a74e7',1,'xmipp::jni::Filename']]],
-  ['volumescomboboxmodel',['VolumesComboBoxModel',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1VolumesComboBoxModel.html#ace0429fde12002b063256a5d94accb5f',1,'xmipp::viewer::windows::GalleryJFrame::VolumesComboBoxModel']]],
-  ['volumescomboboxmodel',['VolumesComboBoxModel',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1VolumesComboBoxModel.html',1,'xmipp::viewer::windows::GalleryJFrame']]]
+  ['volumescomboboxmodel',['VolumesComboBoxModel',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1VolumesComboBoxModel.html',1,'xmipp.viewer.windows.GalleryJFrame.VolumesComboBoxModel'],['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1VolumesComboBoxModel.html#ace0429fde12002b063256a5d94accb5f',1,'xmipp.viewer.windows.GalleryJFrame.VolumesComboBoxModel.VolumesComboBoxModel()']]]
 ];
