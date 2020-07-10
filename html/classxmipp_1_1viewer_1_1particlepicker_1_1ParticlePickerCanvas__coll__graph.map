@@ -1,0 +1,18 @@
+<map id="xmipp.viewer.particlepicker.ParticlePickerCanvas&lt; P extends PickerParticle &gt;" name="xmipp.viewer.particlepicker.ParticlePickerCanvas&lt; P extends PickerParticle &gt;">
+<area shape="rect" id="node2" href="$classxmipp_1_1ij_1_1commons_1_1XmippImageCanvas.html" title="xmipp.ij.commons.XmippImage\lCanvas" alt="" coords="791,1343,996,1385"/>
+<area shape="rect" id="node7" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerJFrame.html" title="xmipp.viewer.particlepicker.\lParticlePickerJFrame" alt="" coords="801,821,985,862"/>
+<area shape="rect" id="node19" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ImportParticlesJDialog.html" title="xmipp.viewer.particlepicker.\lImportParticlesJDialog" alt="" coords="1145,559,1329,601"/>
+<area shape="rect" id="node30" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlesDialog.html" title="xmipp.viewer.particlepicker.\lParticlesDialog" alt="" coords="1145,973,1329,1014"/>
+<area shape="rect" id="node20" href="$classxmipp_1_1utils_1_1XmippDialog.html" title="xmipp.utils.XmippDialog" alt="" coords="812,377,975,404"/>
+<area shape="rect" id="node44" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePicker.html" title="xmipp.viewer.particlepicker.\lParticlePicker" alt="" coords="801,1545,985,1586"/>
+<area shape="rect" id="node24" href="$classxmipp_1_1utils_1_1XmippFileChooser.html" title="xmipp.utils.XmippFileChooser" alt="" coords="795,699,991,725"/>
+<area shape="rect" id="node25" href="$enumxmipp_1_1viewer_1_1particlepicker_1_1Format.html" title="xmipp.viewer.particlepicker.\lFormat" alt="" coords="801,21,985,62"/>
+<area shape="rect" id="node35" href="$classxmipp_1_1viewer_1_1particlepicker_1_1Micrograph.html" title="xmipp.viewer.particlepicker.\lMicrograph" alt="" coords="801,1610,985,1651"/>
+<area shape="rect" id="node36" href="$classxmipp_1_1ij_1_1commons_1_1XmippImageWindow.html" title="xmipp.ij.commons.XmippImage\lWindow" alt="" coords="791,1883,996,1925"/>
+<area shape="rect" id="node38" href="$interfacexmipp_1_1ij_1_1commons_1_1XmippIJWindow.html" title="xmipp.ij.commons.XmippIJWindow" alt="" coords="43,1912,269,1939"/>
+<area shape="rect" id="node39" href="$classxmipp_1_1ij_1_1commons_1_1XmippMenuBar.html" title="xmipp.ij.commons.XmippMenuBar" alt="" coords="419,1840,641,1867"/>
+<area shape="rect" id="node41" href="$classxmipp_1_1ij_1_1commons_1_1ImagePlusLoader.html" title="xmipp.ij.commons.ImagePlus\lLoader" alt="" coords="59,1973,253,2014"/>
+<area shape="rect" id="node43" href="$classxmipp_1_1utils_1_1Params.html" title="xmipp.utils.Params" alt="" coords="463,1789,597,1816"/>
+<area shape="rect" id="node46" href="$enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1Mode.html" title="xmipp.viewer.particlepicker.training.model.Mode" alt="" coords="5,1652,307,1679"/>
+<area shape="rect" id="node48" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerParams.html" title="xmipp.viewer.particlepicker.\lParticlePickerParams" alt="" coords="438,1610,622,1651"/>
+</map>
