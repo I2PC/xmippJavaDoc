@@ -1,0 +1,47 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node231 [label="DialogListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node231 -> Node229 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node229 [label="Fast_Filters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFast__Filters.html"];
+  Node231 -> Node230 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node230 [label="Fit_Polynomial",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFit__Polynomial.html"];
+  Node231 -> Node141 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node141 [label="Grid_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classGrid__.html"];
+  Node228 [label="ExtendedPlugInFilter",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node228 -> Node229 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node228 -> Node230 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node220 [label="ImagePlus",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node220 -> Node137 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node137 [label="Biorad_Reader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classBiorad__Reader.html"];
+  Node220 -> Node138 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node138 [label="DM3_Reader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDM3__Reader.html"];
+  Node220 -> Node142 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node142 [label="HandleExtraFileTypes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classHandleExtraFileTypes.html"];
+  Node220 -> Node143 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node143 [label="IPLab_Reader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classIPLab__Reader.html"];
+  Node135 [label="PlugIn",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node135 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="Averaging_Reducer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAveraging__Reducer.html"];
+  Node135 -> Node137 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node135 -> Node138 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node135 -> Node139 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node139 [label="Example_Plot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classExample__Plot.html"];
+  Node135 -> Node140 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node140 [label="Floyd_Steinberg_Dithering",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFloyd__Steinberg__Dithering.html"];
+  Node135 -> Node141 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node135 -> Node142 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node135 -> Node143 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node135 -> Node144 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node144 [label="Kalman_Stack_Filter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classKalman__Stack__Filter.html"];
+  Node135 -> Node145 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node145 [label="Red_And_Blue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classRed__And__Blue.html"];
+  Node135 -> Node146 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node146 [label="Transparent_Image_Overlay",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classTransparent__Image__Overlay.html"];
+  Node135 -> Node147 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node147 [label="xmipp.ij.plugins.maskstoolbar.\lMasksToolBarPlugin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp_1_1ij_1_1plugins_1_1maskstoolbar_1_1MasksToolBarPlugin.html"];
+  Node135 -> Node148 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node148 [label="ZVI_Reader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classZVI__Reader.html"];
+}
