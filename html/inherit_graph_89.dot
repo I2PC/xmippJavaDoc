@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node131 [label="SwingWorker",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node131 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="xmipp.viewer.particlepicker.training.model.\lCenterParticleTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1CenterParticleTask.html"];
+  Node131 -> Node133 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node133 [label="xmipp.viewer.particlepicker.training.model.\lParticleToTemplatesTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1ParticleToTemplatesTask.html"];
+  Node131 -> Node134 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node134 [label="xmipp.viewer.particlepicker.training.model.\lSupervisedParticlePicker.UpdateTemplatesTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1SupervisedParticlePicker_1_1UpdateTemplatesTask.html"];
+}
